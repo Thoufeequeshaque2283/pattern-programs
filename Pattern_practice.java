@@ -1,4 +1,4 @@
-package tamilnadu.chennai;
+package tamilnadu.chennai; // alphabets practice in pattern
 
 public class Pattern_practice {
 	public static void main(String[] args) {
